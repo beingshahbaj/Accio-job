@@ -54,7 +54,7 @@
 main {
     margin: 0;
     width: 100vw;
-    height: 10000px;
+/*     height: 10000px; */
 }
 .s-1 .detail ul {
     box-shadow: 26px 18px 83px 177px rgba(0, 0, 0, 0.08);
